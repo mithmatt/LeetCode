@@ -1,6 +1,15 @@
+package arrays;
+
 import java.util.Arrays;
 import java.util.HashMap;
 
+/**
+ * 
+ * https://leetcode.com/problems/two-sum/
+ * 
+ * @author Matt
+ *
+ */
 public class TwoSum {
 
 	public static void main(String[] args) {
