@@ -8,7 +8,6 @@ import java.util.HashMap;
  * 
  * @author Matt
  *
- *
  */
 public class ValidAnagram {
 
