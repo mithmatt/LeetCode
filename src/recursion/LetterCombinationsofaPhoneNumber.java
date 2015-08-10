@@ -1,4 +1,5 @@
 package recursion;
+
 import java.util.*;
 
 /**
@@ -16,7 +17,7 @@ public class LetterCombinationsofaPhoneNumber {
 
 	public static void main(String[] args) {
 
-		List<String> res = letterCombinations("3");
+		List<String> res = letterCombinations("23");
 
 		for (String each : res)
 			System.out.println(each);
