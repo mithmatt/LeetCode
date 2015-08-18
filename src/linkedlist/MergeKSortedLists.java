@@ -34,7 +34,6 @@ public class MergeKSortedLists {
 			System.out.print(head.val + " -> ");
 			head = head.next;
 		}
-
 	}
 
 	public static ListNode mergeKLists(ListNode[] lists) {
